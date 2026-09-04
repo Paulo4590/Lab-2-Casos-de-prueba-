@@ -1,0 +1,14 @@
+INFO     root:test_lab2.py:11 TEST CASE 1
+INFO     root:test_lab2.py:25 TEST CASE FINISHED
+INFO     root:test_lab2.py:28 TEST CASE 3
+INFO     root:test_lab2.py:42 The purchase result is:  Error: The entered coupon code is not valid.
+INFO     root:test_lab2.py:43 TEST CASE 3 FINISHED
+INFO     root:test_lab2.py:46 TEST CASE 9
+INFO     root:test_lab2.py:61 The purchase result is: Purchase completed.
+Itms:
+Laptop: 1 x $1000
+Mouse: 2 x $50
+Coupon: DISCOUNT10
+Shipping Addresss: Av Patria
+Total to payy: $935.00
+INFO     root:test_lab2.py:62 TEST CASE 9 FINISHED
